@@ -5,3 +5,4 @@ programs and code snippets using C Programming Language. The following programs 
 
 - Calculating the Power of a Number 
 - Implementing Doubly Linked List on C Programming Language.
+- Implement Singly Linked List on C Programming Language.
