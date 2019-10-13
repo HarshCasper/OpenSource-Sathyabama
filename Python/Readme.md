@@ -6,3 +6,5 @@ with its notable use of significant whitespace. The following folder consists of
 in Python Programming Language. The following programs have been coded in Python here: 
 
 - Breadth First Search Traversal in a Graph
+- Implement TRIE Data Structure 
+- Display Date and Time
