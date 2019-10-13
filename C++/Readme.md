@@ -9,3 +9,4 @@ coded in C++ Programming Language. The following programs has been implemented i
 - Implementing Radix Sort Algorithm 
 - Implement Dijkstra Algorithm
 - Implement Quicksort Sorting Algorithm
+- Implement Triply Linked List
