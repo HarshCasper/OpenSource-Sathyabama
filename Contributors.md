@@ -5,7 +5,6 @@
 - Hobbies: Coding || Reading || Writing 
 - Languages/Frameworks: C, Python, Javascript, Angular 
 
-
 ## Hrituraj Sutradhar
 - Github Username: Punklust
 - Hobbies: Soccer || Reading || Watching Movies 
@@ -14,5 +13,9 @@
 ## Mayank Kumar Singh
 - Github Username: mayank51
 - Hobbies: Travelling || Listening Songs || Watching Movies 
-- Languages/Frameworks: C and C++
+- Languages/Frameworks: C, C++
 
+## Saurav Kumar 
+- Github Username: SAURAV-CRYPTO-boop
+- Hobbies: Reading || Travelling || Watching Comedy
+- Languages/Frameworks: C, C++, Python
