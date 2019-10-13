@@ -4,3 +4,4 @@ C is a General-Purpose High Programming Language devised by Dennis Ritchie at AT
 programs and code snippets using C Programming Language. The following programs has been implemented in the C Programming Language: 
 
 - Calculating the Power of a Number 
+- Implementing Doubly Linked List on C Programming Language.
