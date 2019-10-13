@@ -8,3 +8,4 @@ in Python Programming Language. The following programs have been coded in Python
 - Breadth First Search Traversal in a Graph
 - Implement TRIE Data Structure 
 - Display Date and Time
+- Linked List
