@@ -6,3 +6,6 @@ programs and code snippets using C Programming Language. The following programs 
 - Calculating the Power of a Number 
 - Implementing Doubly Linked List on C Programming Language.
 - Implement Singly Linked List on C Programming Language.
+- Implement Calculator App. 
+- Implement Heap Sort Algorithm. 
+- Implement a program to check if a number is prime or not.
