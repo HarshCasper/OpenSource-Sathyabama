@@ -10,3 +10,4 @@ coded in C++ Programming Language. The following programs has been implemented i
 - Implement Dijkstra Algorithm
 - Implement Quicksort Sorting Algorithm
 - Implement Triply Linked List
+- To check whether a number is Prime or not
