@@ -11,3 +11,4 @@ coded in C++ Programming Language. The following programs has been implemented i
 - Implement Quicksort Sorting Algorithm
 - Implement Triply Linked List
 - To check whether a number is Prime or not
+- To implement Binary Operator Overloading
