@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/conditional-statements-in-c
 #include <stdio.h>
 
 static const char *strings[] = {"one","two","three","four","five",
