@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/for-loop-in-c
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
