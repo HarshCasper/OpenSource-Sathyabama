@@ -13,3 +13,4 @@ coded in C++ Programming Language. The following programs has been implemented i
 - To check whether a number is Prime or not
 - To implement Binary Operator Overloading
 - To implement Function Overloading
+- Swap two numbers by demonstrating Virtual Function and Single Inheritance
