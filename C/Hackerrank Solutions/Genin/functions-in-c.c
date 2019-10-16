@@ -1,4 +1,5 @@
- #include <stdio.h>
+// https://www.hackerrank.com/challenges/functions-in-c
+#include <stdio.h>
 int max_of_four(int a, int b, int c, int d){
     if(a>b && a>c && a>d){
         return a;
