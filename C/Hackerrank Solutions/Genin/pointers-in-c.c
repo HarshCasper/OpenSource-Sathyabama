@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/pointer-in-c
 #include <stdio.h>
 
 void update(int *a,int *b) {
