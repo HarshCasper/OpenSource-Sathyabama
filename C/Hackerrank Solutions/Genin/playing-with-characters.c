@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/playing-with-characters
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
