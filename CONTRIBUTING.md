@@ -1,27 +1,28 @@
-## Contribute to the Community
+# Approach to Contribute 
 
-### Understand the Basics of Git
+## Consistent Coding Style 
 
-- [Install Git](https://www.edureka.co/blog/install-git/)
-- [Git Tutorial with Progate](https://progate.com/languages/git)
-- [Fork a Repo](https://help.github.com/en/articles/fork-a-repo)
-- [Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+- Currently this repository accepts code only in C, C++, Java, Python and HTML. Further languages and frameworks will be added only after 
+a prior discussion. 
+- Follow a consistent Coding Style. Example: Use Camel Case for naming the Variables and Spaces for Indentation. 
+- Use variable names, method names and class names with a significant meaning. 
+ 
+## Make Good Pull Requests 
 
-### How to Contribute? 
+To make a Pull Request you must add a Commit Message which should consist of these three parts: 
 
-1. Fork the Repository 
-2. Using Gitbash/Terminal clone the Repository
-
-```
-git clone https://github.com/HarshCasper/OpenSource-Sathyabama
-```
-3. Add the code or make the changes in the existing code. 
-4. Implement these commands to make changes in the Repository: 
+- Filename: Name of the File 
+- Language: The Language in which it has been implemented 
+- Intent: The purpose of the Code. 
 
 ```
-git add .
-git commit -m [Add your Commit Message]
-git push origin master
+Filename: bubble-sort.java
+
+Language: Java Programming Language 
+
+Intent: To implement Bubble Sort Algorithm in Java, a popular General-Purpose Programming Language. 
 ```
-5. Find the option for making a Pull Request and submit one. 
-6. Congratulations! You have made a Pull Request which will be reviewed and submitted :smiley:
+
+- If a change to the existing code has been made, add an Issue and refer to the Issue before making a Pull Request. 
+
+## Happy Contributing!
