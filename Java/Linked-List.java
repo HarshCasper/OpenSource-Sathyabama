@@ -1,5 +1,5 @@
 import java.util.*;  
-class Book {  
+class B {  
 int id;  
 String name,author,publisher;  
 int quantity;  
@@ -14,11 +14,11 @@ public Book(int id, String name, String author, String publisher, int quantity) 
 public class LinkedListExample {  
 public static void main(String[] args) {  
     //Creating list of Books  
-    List<Book> list=new LinkedList<Book>();  
+    List<B> list=new LinkedList<B>();  
     //Creating Books  
-    Book b1=new Book(101,"Let us C","Yashwant Kanetkar","BPB",8);  
-    Book b2=new Book(102,"Data Communications & Networking","Forouzan","Mc Graw Hill",4);  
-    Book b3=new Book(103,"Operating System","Galvin","Wiley",6);  
+    Book b1=new B(101,"Let us C","Yashwant Kanetkar","BPB",8);  
+    Book b2=new B(102,"Data Communications & Networking","Forouzan","Mc Graw Hill",4);  
+    Book b3=new B(103,"Operating System","Galvin","Wiley",6);  
     //Adding Books to list  
     list.add(b1);  
     list.add(b2);  
