@@ -26,5 +26,5 @@ git add .
 git commit -m [Add your Commit Message]
 git push origin master
 ```
-5. Find the option for making a Pull Request and submit one. 
+5. Find the option for making a Pull Request and submit one. Remember to follow the [Contributing](https://github.com/HarshCasper/OpenSource-Sathyabama/blob/master/CONTRIBUTING.md) guidelines.
 6. Congratulations! You have made a Pull Request which will be reviewed and submitted :smiley:
