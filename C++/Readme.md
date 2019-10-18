@@ -14,3 +14,4 @@ coded in C++ Programming Language. The following programs has been implemented i
 - To implement Binary Operator Overloading
 - To implement Function Overloading
 - Swap two numbers by demonstrating Virtual Function and Single Inheritance
+- Implement a Program to calculate Area of a Rectangle
