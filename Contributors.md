@@ -24,3 +24,8 @@
 - Github Username: 05saitejaswi
 - Hobbies: Browsing || Travelling || Trying something different
 - Languages/Frameworks: HTML, CSS, Javascript, C, C++
+
+## Pasthapuram Harikrishna 
+_ Github Username: masterkrishna
+- Hobbies: Development || Movies || Travelling
+- Languages/Frameworks: Python, C++, Dart, C
