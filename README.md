@@ -1,8 +1,5 @@
 # OpenSource-Sathyabama
-
-[![BCH compliance](https://bettercodehub.com/edge/badge/HarshCasper/OpenSource-Sathyabama?branch=master)](https://bettercodehub.com/)
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/25847518fe294dcd8eb1e3ea232ad372)](https://www.codacy.com/manual/HarshCasper/OpenSource-Sathyabama?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/OpenSource-Sathyabama&amp;utm_campaign=Badge_Grade)
+[![HitCount](http://hits.dwyl.io/harshcasper/OpenSource-Sathyabama.svg)](http://hits.dwyl.io/harshcasper/OpenSource-Sathyabama) [![BCH compliance](https://bettercodehub.com/edge/badge/HarshCasper/OpenSource-Sathyabama?branch=master)](https://bettercodehub.com/) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/25847518fe294dcd8eb1e3ea232ad372)](https://www.codacy.com/manual/HarshCasper/OpenSource-Sathyabama?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/OpenSource-Sathyabama&amp;utm_campaign=Badge_Grade)
 
 
 A Repository created solely for Sathyabama University Students to develop Open-Source Temper where they can add code in any language they want!
