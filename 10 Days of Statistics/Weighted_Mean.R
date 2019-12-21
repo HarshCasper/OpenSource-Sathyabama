@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/s10-weighted-mean/copy-from/128916118
+# https://www.hackerrank.com/challenges/s10-weighted-mean
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 data<- scan("/dev/stdin")
